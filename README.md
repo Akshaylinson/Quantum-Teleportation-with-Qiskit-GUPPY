@@ -127,17 +127,3 @@ This project is for educational & research purposes, demonstrating core principl
 📜 License
 MIT License – free to use, modify, and share with attribution.
 
-yaml
-Copy code
-
----
-
-⚡ This README makes your project look like a **serious professional repo**.  
-
-👉 Do you want me to also **generate a `requirements.txt`** file with pinned versions (e.g., `qiskit==1.2.4`, `qiskit-aer==0.17.1`, etc.) so it’s fully reproducible?
-
-
-
-
-
-Ask ChatGPT
